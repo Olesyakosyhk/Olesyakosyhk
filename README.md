@@ -25,6 +25,7 @@ My specialization is automated and manual software testing.
 
 ![Python](https://img.shields.io/badge/python-0094FF?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1195FF?style=for-the-badge&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8CCB5E?style=for-the-badge&logo=JavaScript&color=white)
 
 ![MongoDB](https://img.shields.io/badge/mongo%20DBy-8CCB5E?style=for-the-badge&logo=mongoDB&color=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL&logoColor=)
