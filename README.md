@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-  <img src="https://e-queo.com/wp-content/uploads/2021/09/2_2.webp" align="right" width="350px" height="200px" />
+  <img src="https://apptest.ai/wp-content/uploads/2019/08/ai_testbot_v2.1ca83181.gif" align="right" width="350px"/>
 </h3>
 
 
