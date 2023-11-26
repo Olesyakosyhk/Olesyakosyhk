@@ -4,12 +4,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Olesya.+Welcome+to+My+Profile!)](https://github.com/Olesyakosyhk/)
   <br/><br/>
 
-
-<h3 align="center">
-  <img src="https://apptest.ai/wp-content/uploads/2019/08/ai_testbot_v2.1ca83181.gif" align="right" width="350px"/>
-</h3>
-
-
 Hi, I'm Olesya Kosyhk.
 
 I'm QA engineer.\
@@ -21,6 +15,10 @@ My specialization is automated and manual software testing.
 
   [![Telegram](https://img.shields.io/badge/Telegram-000.svg?logo=Telegram)](https://t.me/lesyatrish)
 
+</h3>
+
+<h3 align="center">
+  <img src="https://apptest.ai/wp-content/uploads/2019/08/ai_testbot_v2.1ca83181.gif"/>
 </h3>
 
 ## 💻 Tech Stack
