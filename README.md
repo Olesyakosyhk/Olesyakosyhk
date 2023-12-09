@@ -8,7 +8,8 @@
 <img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 &#128187; I'm QA engineer.\
-My specialization is automated and manual software testing.
+My specialization is automated and manual software testing.\
+[Framework](https://github.com/Olesyakosyhk/qa-automation-pytest-ui) for testing UI in Python.
 <br/><br/>
 
 <h3 align="center">
