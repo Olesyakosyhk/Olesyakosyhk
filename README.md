@@ -35,7 +35,7 @@ My specialization is automated and manual software testing.
   <a href=" https://www.mongodb.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwTptG2fcxUHseXwhwHKcCSJRky8cR_BVazbBmhp675qwhU-1kNnymYwUhkytgBatgLo&usqp=CAU" width="50" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="50" height="50" /></a>
   <a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/1200px-Pytest_logo.svg.png" width="50" height="50" /></a>
-  <a href="https://codecept.io/" target="_blank"><img src="https://media.techmaster.vn/api/static/8103/buudtsc51co41h2qd0ng" width="50" height="50" /></a>
+  <a href="https://codecept.io/" target="_blank"><img src="https://media.techmaster.vn/api/static/8103/buudtsc51co41h2qd0ng" width="60" height="50" /></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://media.licdn.com/dms/image/D4E12AQFKUngqIb6IuQ/article-cover_image-shrink_600_2000/0/1666880789065?e=2147483647&v=beta&t=nfTLavf124hbafNcnZFbm89Nfxe12C11MYUQvoN5RFA" width="50" height="50" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img2.creatium.app/b4/8a/38/13d1667a37f466e50506867850aad74158/776_7760129_update_native_postman_on_ubuntu_postman_tool.jpg" width="50" height="50" /></a>
   <a href="https://docs.kafka-ui.provectus.io/overview/readme" target="_blank"><img src="https://d7umqicpi7263.cloudfront.net/img/product/3c723e1e-7749-434d-8f97-2dbaa2a197cc/b93297e9-8c19-4a23-bf48-28074219ab0f" width="50" height="50" /></a>
